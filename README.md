@@ -18,7 +18,7 @@ I'm a person who loves challenges and have a variety of interests:
 
  <p align="center">
 	<a href="mailto:pds_paula@hotmail.com">
-		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:pds_paula@hotmail.com" />
+		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-darkviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:pds_paula@hotmail.com" />
 	</a>
 	<span> * </span>
 	<a href="https://www.linkedin.com/in/paula-souza-biazotto-45645b54/">
