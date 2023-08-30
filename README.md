@@ -7,13 +7,13 @@
 
 I'm a _cadet_ (software engineering student) at [École 42](https://www.42lisboa.com/) ✨.
 
-I'm a person who loves challenges and have a variety of interests:
+I'm a person who loves challenges and have a variety of interests.
 
-* 🎓  graduated chemistry
-* :handshake: MBA HR
-* 🌎  travel
-* :octocat: cats
-* :wine_glass: wine
+* 🎓  Undergraduate degree – Bachelor's in Chemistry
+* :handshake: Postgraduate – MBA Human Resources Management, USP ESALQ
+* 🌎 I am passionate about traveling and experiencing different cultures.
+* :octocat: I love animals and consider myself a big cat lover
+* :wine_glass: Always ready for a good conversation accompanied by fine wines
 
  <p align="center">
 	<a href="mailto:pds_paula@hotmail.com">
