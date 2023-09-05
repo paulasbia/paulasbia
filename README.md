@@ -7,7 +7,7 @@
 
 I'm a _cadet_ (software engineering student) at [École 42](https://www.42lisboa.com/) ✨.
 
-I'm a person who loves challenges and have a variety of interests.
+I'm a person who loves challenges and has a variety of interests.
 
 * 🎓  Undergraduate degree – Bachelor's in Chemistry
 * :handshake: Postgraduate – MBA Human Resources Management, USP ESALQ
