@@ -20,7 +20,7 @@ I'm a person who loves challenges and has a variety of interests.
 		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-darkviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:pds_paula@hotmail.com" />
 	</a>
 	<span> * </span>
-	<a href="https://www.linkedin.com/in/paula-souza-biazotto-45645b54/">
+	<a href="https://www.linkedin.com/in/paula-de-souza-biazotto-45645b54/">
 		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/paula-souza-biazotto-45645b54/" />
 	</a>
 </p>
