@@ -5,7 +5,7 @@
 
 ### Thanks for visiting! 😄
 
-I'm a _cadet_ (software engineering student) at [École 42](https://www.42lisboa.com/) ✨.
+I am a SW Engineer at [Nokia Portugal](https://www.nokia.com/about-us/careers/our-locations/portugal/) and a student at [École 42](https://www.42lisboa.com/) ✨.
 
 I'm a person who loves challenges and has a variety of interests.
 
